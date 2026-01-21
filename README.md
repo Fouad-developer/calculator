@@ -3,7 +3,7 @@
 <div align="center">
   <img src="my_calc.jpg" width="320" />
   <br><br>
-  <h3>A clean, modern calculator built with Flutter</h3>
+  <h3>A clean, basic calculator built with Flutter</h3>
 </div>
 
 Clean and elegant calculator application made with **Flutter**. Supports basic arithmetic, percentages, parentheses and a beautiful dark-themed UI.
@@ -16,9 +16,6 @@ Clean and elegant calculator application made with **Flutter**. Supports basic a
 - Double-zero (00) button for faster input
 - Modern dark design (Material You inspired)
 - Responsive layout
-
-## 📸 Screenshots
-
 
 ## 🚀 Quick Start
 
