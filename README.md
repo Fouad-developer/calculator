@@ -1,7 +1,7 @@
 # Calculator App
 
 <div align="center">
-  <img src="screenshots/calculator-screenshot.png" width="320" />
+  <img src="my_calc.jpg" width="320" />
   <br><br>
   <h3>A clean, modern calculator built with Flutter</h3>
 </div>
