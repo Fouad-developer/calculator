@@ -11,7 +11,6 @@ Clean and elegant calculator application made with **Flutter**. Supports basic a
 ## ✨ Features
 - Basic operations: +, −, ×, ÷
 - Percentage calculations (%)
-- Parentheses support
 - Clear (C) and decimal point
 - Double-zero (00) button for faster input
 - Modern dark design (Material You inspired)
